@@ -1,2 +1,4 @@
-# OTPokemonMacro
-Script em python para realizar todos ataques do pokémon com apenas 1 botão
+# OTPokemon Moves Macro
+Script em python para utilizar todos moves do pokémon com apenas um botão.
+
+Criado para fins de estudo em python e automação.
